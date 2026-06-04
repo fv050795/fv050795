@@ -1,6 +1,6 @@
 # Olá, eu sou o Fernando Vinícius! 👋
 
-### Analista e Desenvolvedor de Sistemas em formação | 10+ anos em Hardware
+### Analista e Desenvolvedor de Sistemas em formação | 6+ anos em Hardware
 
 De técnico de bancada a desenvolvedor de software. Minha trajetória começou abrindo máquinas e entendendo a eletrônica, e hoje foco em construir soluções inteligentes através do código. Acredito que a tecnologia deve ser prática, eficiente e focada em resultados reais.
 
@@ -9,11 +9,12 @@ De técnico de bancada a desenvolvedor de software. Minha trajetória começou a
 ### 🛠️  Focado agora:
 - 🎓 Cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas**.
 - 🐍 Especializando em **Python** para automação e lógica de dados.
-- 🌐 Desenvolvendo interfaces modernas com **JavaScript, HTML5 e CSS3**.
+- 🌐 Desenvolvendo interfaces modernas com ** HTML e CSS**.
 - 🤖 Explorando o uso de **Inteligência Artificial** para acelerar o desenvolvimento.
 
 ### 💼 Experiência & Projetos:
-- **DeliveryCellSP:** Solução web para logística de assistência técnica mobile.
+- **solucellsp:** Solução web para logística de assistência técnica mobile.
+solucell-sp.vercel.app 
 - **Corrida Urbana:** Game 2D desenvolvido em Java para estudo de POO.
 - **Especialista em Hardware:** Mais de uma década diagnosticando e recuperando sistemas complexos.
 
