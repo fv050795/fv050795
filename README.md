@@ -14,7 +14,7 @@ De técnico de bancada a desenvolvedor de software. Minha trajetória começou a
 
 ### 💼 Experiência & Projetos:
 - **solucellsp:** Solução web para logística de assistência técnica mobile.
-solucell-sp.vercel.app 
+
 - **Corrida Urbana:** Game 2D desenvolvido em Java para estudo de POO.
 - **Especialista em Hardware:** Mais de uma década diagnosticando e recuperando sistemas complexos.
 
